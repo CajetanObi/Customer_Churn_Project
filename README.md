@@ -82,7 +82,7 @@ The dataset consists of customer demographic and financial information. The targ
 
 ## **Contributors**
 - **Okon Prince** – Data Scientist
-- **Obi Cajetan** _
+- **Obi Cajetan** _ Data Scientist
 - **Lovina Ehimen-Ugbede (Vina)** - NLP Specialist
 
 ## **License**
