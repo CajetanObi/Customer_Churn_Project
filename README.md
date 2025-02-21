@@ -83,7 +83,7 @@ The dataset consists of customer demographic and financial information. The targ
 ## **Contributors**
 - **Okon Prince** – Data Scientist
 - **Obi Cajetan** _
-- Lovina Ehimen-Ugbede (Vina) - NLP Specialist
+- **Lovina Ehimen-Ugbede (Vina)** - NLP Specialist
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
